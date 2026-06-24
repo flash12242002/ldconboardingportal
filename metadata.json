@@ -1,0 +1,6 @@
+{
+  "name": "LDC Onboarding Portal",
+  "description": "雲朗觀光股份有限公司（LDC Hotels & Resorts）新進同仁報到平台。含同仁端與人資管理後台分流，支援個人資料填寫、經歷申報、PDF核驗證書上傳、工作規程勾選、合約線上確認簽署與 HR AI 助理解答。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
